@@ -1,0 +1,27 @@
+[
+  {
+    "codeProduct": 123,
+    "nameProduct": "компьютерная мышь",
+    "priceProduct": 2790
+  },
+  {
+    "codeProduct": 456,
+    "nameProduct": "Ноутбук",
+    "priceProduct": 30990
+  },
+  {
+    "codeProduct": 789,
+    "nameProduct": "Клавиатура",
+    "priceProduct": 560
+  },
+  {
+    "codeProduct": 147,
+    "nameProduct": "Блок питания",
+    "priceProduct": 2000
+  },
+  {
+    "codeProduct": 258,
+    "nameProduct": "Монитор",
+    "priceProduct": 9900
+  }
+]
